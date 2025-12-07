@@ -29,20 +29,20 @@ An interactive interface displays the results in a clear and structured format.
 
 1️⃣ Clone the repository  
 
-git clone https://github.com/Spoorthi12spoo/Matrix_Tool.git
-cd Matrix_Tool
+ * git clone https://github.com/Spoorthi12spoo/Matrix_Tool.git
+ * cd Matrix_Tool
 
 2️⃣ Start Backend (Flask)
 
-cd backend
-pip install -r requirements.txt
-python app.py
+ * cd backend
+ * pip install -r requirements.txt
+ * python app.py
 
 3️⃣ Start Frontend (React)
 
-cd frontend
-npm install
-npm start
+ * cd frontend
+ * npm install
+ * npm start
 
 ## Result 
 
